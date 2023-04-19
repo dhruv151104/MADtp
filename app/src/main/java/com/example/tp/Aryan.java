@@ -1,5 +1,7 @@
 package com.example.tp;
-
+import java.util.*;
+import android.os.*;
+import android.widget.*;
 import android.os.Bundle;
 
 public class Aryan {
